@@ -1,7 +1,7 @@
 {
 	"name":"FactorioLogo",
 	"author":"Wube Software",
-	"version":"0.2.0",
+	"version":"0.3.0",
 	"title":"FactorioLogo",
 	"description":"Adds a buildable 82 tile wide Factorio logo.",
 	"factorio_version":"0.17",
